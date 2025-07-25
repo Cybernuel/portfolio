@@ -79,8 +79,8 @@ export default function Page() {
                       <div className="space-y-3 text-gray-600 dark:text-gray-300">
                         <p>
                           I started out in Nigeria, where I earned my B.Eng in Computer Engineering from University of Ilorin, Nigeria and quickly immersed
-                          myself in network security through hands-on internships. At Aero Contractors of Nigeria, I cut my teeth
-                          configuring enterprise networks, deploying VPNs, and defending systems against DDoS attacks.
+                          myself in network security through hands-on internships. At Aero Contractors of Nigeria, I got my start by
+                          configuring enterprise networks, setting up VPNs, and hardening systems against DDos attacks.
                           That early exposure to real-world cyber threats lit a fire in me, it showed me how critical
                           security is in the digital world we rely on.
                         </p>
