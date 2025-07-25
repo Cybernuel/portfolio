@@ -81,14 +81,14 @@ export default function Page() {
                           I started out in Nigeria, where I earned my B.Eng in Computer Engineering and quickly immersed
                           myself in network security through hands-on internships. At Aero Contractors, I cut my teeth
                           configuring enterprise networks, deploying VPNs, and defending systems against DDoS attacks.
-                          That early exposure to real-world cyber threats lit a fire in me—it showed me how critical
+                          That early exposure to real-world cyber threats lit a fire in me, it showed me how critical
                           security is in the digital world we rely on.
                         </p>
                         <p>
                           That drive led me to two dynamic analyst roles; first at FemTech IT, then at DOTS ICT
                           Institute of Technology, where I designed incident response protocols, deployed SIEM tools,
                           led penetration tests, and slashed breach detection times. Along the way, I learned that
-                          cybersecurity isn't just about tools and firewalls—it's about people. Protecting them.
+                          cybersecurity isn't just about tools and firewalls, it's about people. Protecting them.
                           Empowering them. Educating them.
                         </p>
                         <p>
