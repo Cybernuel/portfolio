@@ -183,6 +183,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/honey_pot/blob/main/README.md"
                 tags={["TPot", "Honeypot", "Cybersecurity", "Threat Intelligence"]}
               />
+                <ProjectCard
+                title="Ransomware Simulator"
+                description="Simulates file encryption with .locked extension and a ransom note, with safe decryption for educational purposes."
+                image="/rasomeware.png?height=400&width=600"
+                link="https://github.com/Cybernuel/ransomware_simulator"
+                tags={["Python", "Rasomeware", "Cybersecurity", "Threat Intelligence"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
