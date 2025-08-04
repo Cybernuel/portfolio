@@ -190,6 +190,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/ransomware_simulator"
                 tags={["Python", "Rasomeware", "Cybersecurity", "Threat Intelligence"]}
               />
+              <ProjectCard
+                title="Log analyzer"
+                description="A Python-powered log analysis tool that simulates how a SOC analyst hunts for suspicious activity in logs."
+                image="/minilog_analyzer.png?height=400&width=600"
+                link="https://github.com/Cybernuel/mini-log-analyzer"
+                tags={["Python", "Blue Team", "Cybersecurity", "Threat Hunting"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
