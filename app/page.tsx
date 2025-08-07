@@ -202,7 +202,7 @@ export default function Page() {
                 description="A lightweight Python packet sniffer using scapy, built for real-time network traffic analysis."
                 image="/Packet_Sniffer.png?height=400&width=600"
                 link="https://github.com/Cybernuel/public-ip-sniffer"
-                tags={["Python", "Blue Team", "Cybersecurity", "Threat Hunting","Packet Sniffer"]}
+                tags={["Python", "Cybersecurity","NetworkSecurity"]}
               />
             </StaggeredGrid>
           </div>
