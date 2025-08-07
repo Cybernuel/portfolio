@@ -197,6 +197,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/mini-log-analyzer"
                 tags={["Python", "Blue Team", "Cybersecurity", "Threat Hunting"]}
               />
+                <ProjectCard
+                title="Packet Sniffer"
+                description="A lightweight Python packet sniffer using scapy, built for real-time network traffic analysis."
+                image="/Packet_Sniffer.png?height=400&width=600"
+                link="https://github.com/Cybernuel/public-ip-sniffer"
+                tags={["Python", "Blue Team", "Cybersecurity", "Threat Hunting","Packet Sniffer"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
