@@ -204,6 +204,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/public-ip-sniffer"
                 tags={["Python", "Cybersecurity","NetworkSecurity"]}
               />
+              <ProjectCard
+                title="WebApp Recon & Exploitation"
+                description="A hands-on red team exercise focused on discovering and exploiting common web application vulnerabilities."
+                image="/web_exploit.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Web-App-Recon-Exploitation"
+                tags={["OWASP ", "Cybersecurity","Burp Suite"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
