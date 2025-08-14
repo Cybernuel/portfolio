@@ -211,6 +211,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/Web-App-Recon-Exploitation"
                 tags={["OWASP ", "Cybersecurity","Burp Suite"]}
               />
+               <ProjectCard
+                title="Internal Enumeration & Privilege Escalation"
+                description="Active Directory (AD) internal enumeration, password attacks, and privilege escalation"
+                image="/AD_LAB.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Active-Directory-Lab-Enumeration-Privilege-Escalation"
+                tags={["AD ", "Red Team","Hashcat"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
