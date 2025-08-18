@@ -153,7 +153,7 @@ export default function Page() {
                 description="Python scripts for automating password cracking with Hashcat and John the Ripper, built for ethical hacking and research."
                 image="/password_cracking.jpg?height=400&width=600"
                 link="https://github.com/Cybernuel/Password-Cracking-Lab---Automating-Hashcat-and-John-the-Ripper/blob/main/Hashcat.py"
-                tags={["Python", "Hashcat", "John the Ripper", "Password Cracking"]}
+                tags={["Python", "Hashcat", "John the Ripper"]}
               />
               <ProjectCard
                 title="Armitage Network Attack"
@@ -178,24 +178,24 @@ export default function Page() {
               />
               <ProjectCard
                 title="Honey Pot"
-                description="T-Pot is a high-interaction honeypot platform that captures and analyses real-world attacks for threat intelligence and research."
+                description="T-Pot is a honeypot platform that captures and analyses real-world attacks for threat intelligence."
                 image="/honey_pot.png?height=400&width=600"
                 link="https://github.com/Cybernuel/honey_pot/blob/main/README.md"
                 tags={["TPot", "Honeypot", "Cybersecurity", "Threat Intelligence"]}
               />
                 <ProjectCard
                 title="Ransomware Simulator"
-                description="Simulates file encryption with .locked extension and a ransom note, with safe decryption for educational purposes."
+                description="Simulates file encryption with .locked extension and a ransom note, with safe decryption."
                 image="/rasomeware.png?height=400&width=600"
                 link="https://github.com/Cybernuel/ransomware_simulator"
-                tags={["Python", "Rasomeware", "Cybersecurity", "Threat Intelligence"]}
+                tags={["Python", "Rasomeware", "Cybersecurity"]}
               />
               <ProjectCard
                 title="Log analyzer"
                 description="A Python-powered log analysis tool that simulates how a SOC analyst hunts for suspicious activity in logs."
                 image="/minilog_analyzer.png?height=400&width=600"
                 link="https://github.com/Cybernuel/mini-log-analyzer"
-                tags={["Python", "Blue Team", "Cybersecurity", "Threat Hunting"]}
+                tags={["Python", "Blue Team", "Threat Hunting"]}
               />
                 <ProjectCard
                 title="Packet Sniffer"
@@ -212,7 +212,7 @@ export default function Page() {
                 tags={["OWASP ", "Cybersecurity","Burp Suite"]}
               />
                <ProjectCard
-                title="Internal Enumeration & Privilege Escalation"
+                title="Enumeration & Privilege Escalation"
                 description="Active Directory (AD) internal enumeration, password attacks, and privilege escalation"
                 image="/AD_LAB.png?height=400&width=600"
                 link="https://github.com/Cybernuel/Active-Directory-Lab-Enumeration-Privilege-Escalation"
@@ -220,7 +220,7 @@ export default function Page() {
               />
               <ProjectCard
                 title="Network Traffic Capture & Credential Sniffing"
-                description="Explore how attackers can intercept sensitive data such as usernames, passwords, & NTLM hashes when insecure services are used."
+                description="Explore how attackers intercept data like usernames, passwords, and NTLM hashes via insecure services."
                 image="/network.png?height=400&width=600"
                 link="https://github.com/Cybernuel/credential-sniffing"
                 tags={["Red Team ", "Protocols","Network Security"]}
