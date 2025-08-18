@@ -218,6 +218,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/Active-Directory-Lab-Enumeration-Privilege-Escalation"
                 tags={["AD ", "Red Team","Hashcat"]}
               />
+              <ProjectCard
+                title="Network Traffic Capture & Credential Sniffing"
+                description="Explore how attackers can intercept sensitive data such as usernames, passwords, & NTLM hashes when insecure services are used."
+                image="/network.png?height=400&width=600"
+                link="https://github.com/Cybernuel/credential-sniffing"
+                tags={["Red Team ", "Protocols","Network Security"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
