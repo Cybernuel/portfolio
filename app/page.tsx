@@ -225,6 +225,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/credential-sniffing"
                 tags={["Red Team ", "Protocols","Network Security"]}
               />
+              <ProjectCard
+                title="Phishing Simulation Lab"
+                description="This project demonstrates how social engineering and phishing payload delivery can be used by attackers"
+                image="/phishing.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Phishing-Simulation-Lab/blob/main/README.md"
+                tags={["Red Team ", "Phishing"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
