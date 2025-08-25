@@ -239,6 +239,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/Otp-bypass"
                 tags={["Red Team ", "OTP"]}
               />
+              <ProjectCard
+                title="Breach Analysis"
+                description="a real-world web server compromise, where I analyzed network traffic (.pcap) to trace an attacker’s steps."
+                image="/wireshark.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Otp-bypass"
+                tags={["Red Team ", "Wire Shark"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
