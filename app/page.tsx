@@ -232,6 +232,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/Phishing-Simulation-Lab/blob/main/README.md"
                 tags={["Red Team ", "Phishing"]}
               />
+               <ProjectCard
+                title="OTP Bypass"
+                description=" This project demonstrates common OTP vulnerabilities, how attackers think"
+                image="/otp.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Otp-bypass"
+                tags={["Red Team ", "OTP"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
