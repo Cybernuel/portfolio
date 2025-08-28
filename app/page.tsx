@@ -246,6 +246,13 @@ export default function Page() {
                 link="https://github.com/Cybernuel/Otp-bypass"
                 tags={["Red Team ", "Wire Shark"]}
               />
+               <ProjectCard
+                title="OTP Simulation"
+                description="A deliberately vulnerable OTP (One-Time Password) authentication system built with Python & Flask."
+                image="/otp_simulation.png?height=400&width=600"
+                link="https://github.com/Cybernuel/Otp-bypass"
+                tags={["Pen Test", "python"]}
+              />
             </StaggeredGrid>
           </div>
         </AnimatedSection>
